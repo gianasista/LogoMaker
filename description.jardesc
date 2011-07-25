@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="MacRoman" standalone="no"?>
+<jardesc>
+    <jar path="LogoMaker/build/logomaker.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/LogoMaker/description.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=LogoMaker/src&lt;{LogoMaker.java[LogoMaker" manifestLocation="/LogoMaker/manifest.mf" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/LogoMaker/EclipseCpp.jpg"/>
+        <file path="/LogoMaker/.classpath"/>
+        <file path="/LogoMaker/henneberger-partner-mini.png"/>
+        <file path="/LogoMaker/.project"/>
+        <file path="/LogoMaker/henneberger-partner.tiff"/>
+        <file path="/LogoMaker/EclipseCpp.tif"/>
+        <file path="/LogoMaker/Source.pdf"/>
+        <file path="/LogoMaker/.DS_Store"/>
+        <file path="/LogoMaker/henneberger-partner-mini.jpg"/>
+        <javaElement handleIdentifier="=LogoMaker/src"/>
+        <file path="/LogoMaker/henneberger-partner-mini.tiff"/>
+        <folder path="/LogoMaker/lib"/>
+        <file path="/LogoMaker/henneberger-partner-klein.jpg"/>
+        <file path="/LogoMaker/henneberger-partner.jpg"/>
+        <file path="/LogoMaker/henneberger-partner.eps"/>
+    </selectedElements>
+</jardesc>

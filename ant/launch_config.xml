@@ -1,0 +1,13 @@
+<launch4jConfig>
+	<headerType>console</headerType>
+	<outfile>lm.exe</outfile>
+	<jar>../build/logomaker.jar</jar>
+	<classPath>
+		<mainClass>LogoMaker</mainClass>
+		<cp>.</cp>
+    </classPath>
+	<jre>
+		<minVersion>1.5.0</minVersion>
+	</jre>
+
+</launch4jConfig>
